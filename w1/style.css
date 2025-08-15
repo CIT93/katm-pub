@@ -1,0 +1,18 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin: 20px;
+    background-color: #390e52f9;
+    color: #f5f5f5;
+}
+
+h1 {
+    color: papayawhip;
+    border-style: dashed;
+    border-radius: 2rem;
+    border-color: #b341d6;
+}
+
+p {
+    line-height: 1.6;
+}
